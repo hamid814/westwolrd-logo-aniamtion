@@ -1,0 +1,52 @@
+#logo {
+  position: relative;
+  margin-left: 40px;
+  margin-top: 65px;
+}
+.parallelogram {
+  position: absolute;
+  width: 35px;
+  height: 220px;
+  transform: skew(20deg);
+  background: #9e2127;
+  display: inline-block;
+}
+#parallelogram-1 {
+  left: 0;
+  top: 0;
+  animation: p1 2s ease-in;
+}
+#parallelogram-2 {
+  left: 45px;
+  top: 0;
+  height: 180px;
+  animation: p2 2s ease-in;
+}
+#parallelogram-3 {
+  /* display: none; */
+  transform: skew(-20deg);
+  height: 140px;
+  top: 40px;
+  left: 105px;
+  animation: p3 2s ease-in;
+}
+#parallelogram-4 {
+  /* display: none; */
+  height: 140px;
+  top: 40px;
+  left: 156px;
+  animation: p4 2s ease-in;
+}
+#parallelogram-5 {
+  left: 215px;
+  top: 0;
+  height: 180px;
+  transform: skew(-20deg);
+  animation: p5 2s ease-in;
+}
+#parallelogram-6 {
+  left: 260px;
+  top: 0;
+  transform: skew(-20deg);
+  animation: p6 2s ease-in;
+}

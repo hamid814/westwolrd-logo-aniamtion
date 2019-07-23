@@ -1,0 +1,15 @@
+@keyframes p3 {
+  0% {
+    transform: rotateY(90deg);
+    background: #6c9;
+  }
+  50% {
+    transform: rotateY(90deg);
+    left: 115px;
+    background: #9e2127;
+  }
+  100% {
+    transform: skew(-20deg);
+    left: 105px;
+  }
+}
