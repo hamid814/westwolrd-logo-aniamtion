@@ -14,13 +14,13 @@
 #parallelogram-1 {
   left: 0;
   top: 0;
-  animation: p1 2s ease-in;
+  animation: p1 2s ease-in infinite;
 }
 #parallelogram-2 {
   left: 45px;
   top: 0;
   height: 180px;
-  animation: p2 2s ease-in;
+  animation: p2 2s ease-in infinite;
 }
 #parallelogram-3 {
   /* display: none; */
@@ -28,25 +28,25 @@
   height: 140px;
   top: 40px;
   left: 105px;
-  animation: p3 2s ease-in;
+  animation: p3 2s ease-in infinite;
 }
 #parallelogram-4 {
   /* display: none; */
   height: 140px;
   top: 40px;
   left: 156px;
-  animation: p4 2s ease-in;
+  animation: p4 2s ease-in infinite;
 }
 #parallelogram-5 {
   left: 215px;
   top: 0;
   height: 180px;
   transform: skew(-20deg);
-  animation: p5 2s ease-in;
+  animation: p5 2s ease-in infinite;
 }
 #parallelogram-6 {
   left: 260px;
   top: 0;
   transform: skew(-20deg);
-  animation: p6 2s ease-in;
+  animation: p6 2s ease-in infinite;
 }
