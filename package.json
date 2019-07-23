@@ -1,0 +1,23 @@
+{
+  "name": "westworld-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid814/westwolrd-logo-aniamtion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamid814/westwolrd-logo-aniamtion/issues"
+  },
+  "homepage": "https://github.com/hamid814/westwolrd-logo-aniamtion#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
