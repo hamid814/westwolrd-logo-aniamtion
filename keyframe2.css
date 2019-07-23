@@ -1,0 +1,21 @@
+@keyframes p2 {
+  0% {
+    transform: scale(1.5);
+    height: 220px;
+    left: 125px;
+    background: #6c9;
+  }
+  50% {
+    width: 40px;
+    transform: skew(0) scale(1);
+    height: 220px;
+    left: 125px;
+    background: #9e2127;
+  }
+  100% {
+    width: 35px;
+    transform: skew(20deg);
+    height: 180px;
+    left: 45px;
+  }
+}
