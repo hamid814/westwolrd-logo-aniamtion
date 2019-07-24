@@ -15,20 +15,22 @@
   left: 0;
   top: 0;
   animation: p1 2s ease-in infinite alternate-reverse;
+  animation-timing-function: cubic-bezier(1,1.04,.3,.96);
 }
 #parallelogram-2 {
   left: 45px;
   top: 0;
   height: 180px;
   animation: p2 2s ease-in infinite alternate-reverse;
+  animation-timing-function: cubic-bezier(1,1.04,.3,.96);
 }
 #parallelogram-3 {
-  /* display: none; */
   transform: skew(-20deg);
   height: 140px;
   top: 40px;
   left: 105px;
   animation: p3 2s ease-in infinite alternate-reverse;
+  animation-timing-function: cubic-bezier(1,1.04,.3,.96);
 }
 #parallelogram-4 {
   /* display: none; */
@@ -36,6 +38,7 @@
   top: 40px;
   left: 156px;
   animation: p4 2s ease-in infinite alternate-reverse;
+  animation-timing-function: cubic-bezier(1,1.04,.3,.96);
 }
 #parallelogram-5 {
   left: 215px;
@@ -43,10 +46,12 @@
   height: 180px;
   transform: skew(-20deg);
   animation: p5 2s ease-in infinite alternate-reverse;
+  animation-timing-function: cubic-bezier(1,1.04,.3,.96);
 }
 #parallelogram-6 {
   left: 260px;
   top: 0;
   transform: skew(-20deg);
   animation: p6 2s ease-in infinite alternate-reverse;
+  animation-timing-function: cubic-bezier(1,1.04,.3,.96);
 }
